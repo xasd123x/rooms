@@ -92,3 +92,4 @@ $(`<style>#mic4 {margin-right: 8px !important;}
         filter: hue-rorate(360deg);
     }
 }</style>`).insertBefore('body');
+setv("kk1","1");
