@@ -3178,7 +3178,7 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 
 
 $(`<style>
-.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex fitimg u-pic {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
