@@ -3178,7 +3178,7 @@ $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 
 
 $(`<style>
-.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic {
+.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
@@ -3214,7 +3214,7 @@ $(`<style>
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic {
+.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
