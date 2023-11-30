@@ -93,4 +93,4 @@ $(`<style>#mic4 {margin-right: 8px !important;}
 }</style>`).insertBefore('body');
 
 
-    }, 10);
+
