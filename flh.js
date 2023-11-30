@@ -39,8 +39,8 @@ $(`<style>
 	opacity:0;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
-    background-image: url(https://up6.cc/2023/11/170121230754931.gif);
-    background-size: cover;
+    margin-top-image: url(https://up6.cc/2023/11/170121230754931.gif);
+    margin-top-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
