@@ -38,6 +38,13 @@ $(`<style>
 	background-size: 90% 100%;
 	opacity:0;
 }
+  .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
+    background-image: url(https://up6.cc/2023/11/170121230754931.gif);
+    margin-top-size: cover;
+    border-radius: 15px 0px 15px 0px;
+    display: inline-block;
+}
+
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
@@ -80,13 +87,7 @@ $(`<style>#mic4 {margin-right: 8px !important;}
     0% {
         filter: hue-rotate(0deg);
     }
-    .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
-    background-image: url(https://up6.cc/2023/11/170121230754931.gif);
-    margin-top-size: cover;
-    border-radius: 15px 0px 15px 0px;
-    display: inline-block;
-}
-
+  
     100% {
         filter: hue-rorate(360deg);
     }
