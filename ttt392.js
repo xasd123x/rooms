@@ -8,8 +8,8 @@ $(`<style>
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .label.label-primary.fa.fa-user.uc {
   letter-spacing: 1px;
-  background-color: #ff0000;
-  -webkit-text-fill-color: #ff0000;
+  -webkit-text-fill-color: #fff;
+  background-color: #ff0000 !important;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
