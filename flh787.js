@@ -1,6 +1,4 @@
 
-
-
 $(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
   letter-spacing: 1px;
@@ -52,18 +50,18 @@ $(`<style>
   display: none;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .u-topic.dots.flex-grow-1 {
-  text-transform: uppercase;
-  -webkit-text-fill-color: #e8a64d00;
-  animation: textclip 2s linear infinite;
-  display: inline-block;
-  font-size: 22px !important;
-  background-image: url(https://up6.cc/2023/01/167391087161381.gif);
-  -webkit-background-clip: text;
-  color: transparent !important;
-  background-size: 100% 100%;
-  margin-top: 10px;
-  display: none;
-}
+    text-transform: uppercase;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 20px !important;
+    font-style: normal;
+    font-family: sans-serif;
+	
+    color: transparent !important;
+    background-size: 100% 100%;
+    margin-top: -2px;
+    margin-left: 5px;}
 
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 
