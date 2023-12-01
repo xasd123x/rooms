@@ -26,7 +26,7 @@ $(`<style>
   text-align: left!important;
   margin-left: 45px!important;
 }
-.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .c-flex.flex-grow-1.break {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .mini.u-msg.flex-grow-1 {
     text-align: center;
     margin-top: 53px !important;
@@ -39,7 +39,7 @@ $(`<style>
 	background-size: 90% 100%;
 	opacity:0;
 }
-.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
+.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .c-flex.flex-grow-1.break {
     background-image: url(https://up6.cc/2023/11/170121230754931.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
