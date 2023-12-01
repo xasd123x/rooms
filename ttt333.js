@@ -1,3 +1,10 @@
+var rid='18c1c14a6c4x52a495a1-xl7kq5r';
+$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
+background-size: 220% auto;border-radius:  50px !important;border: 1px solid #0000;
+}`);
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
+background-image: url(https://up6.cc/2023/11/170009087923123.png); background-size: cover;color: #ffffff;
+}`);
 
 $(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
