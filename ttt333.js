@@ -30,14 +30,14 @@ $(`<style>
 	margin-left: 11px;
 	-webkit-text-fill-color: transparent;
 	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
+	background-image: url(https://up6.cc/2023/12/170146864300182.gif);
 	-webkit-background-clip: text;
 	color: transparent !important;
 	background-size: 90% 100%;
 	opacity:0;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
-    background-image: url(https://up6.cc/2023/11/170121230754931.gif);
+    background-image: url(https://up6.cc/2023/12/170146864215291.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
