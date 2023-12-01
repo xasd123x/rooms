@@ -18,16 +18,9 @@ $(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .mini.u-msg.flex-grow-1 {
     text-align: center;
-    margin-top: 53px !important;
-	margin-left: 11px;
-	-webkit-text-fill-color: transparent;
-	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
-	-webkit-background-clip: text;
-	color: transparent !important;
-	background-size: 90% 100%;
-	opacity:0;
-}
+    -webkit-text-fill-color: #ffffff;
+    background-image: linear-gradient(-225deg, #c8c8c8 0%, #ffffff 29%, #c8c8c8 67%, #ffffff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
+    }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
     background-image: url(https://up6.cc/2023/11/170121230754931.gif);
     background-size: cover;
