@@ -13,7 +13,7 @@ $(`<style>
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
-  background-color: #transparent;
+  background-color: #000000;
   margin-left: 45px!important;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r.bord {border-inline: 0px solid #4c121e !important;}
