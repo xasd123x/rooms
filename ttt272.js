@@ -8,12 +8,12 @@ $(`<style>
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .label.label-primary.fa.fa-user.uc {
   letter-spacing: 1px;
+  background-color: #000000;
   -webkit-text-fill-color: #fff;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
-  background-color: #000000;
   margin-left: 45px!important;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r.bord {border-inline: 0px solid #4c121e !important;}
