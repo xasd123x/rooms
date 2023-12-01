@@ -16,19 +16,9 @@ $(`<style>.nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .label-primary {backg
     -webkit-text-fill-color: #ffffff;
     background-image: linear-gradient(-225deg, #c8c8c8 0%, #ffffff 29%, #c8c8c8 67%, #ffffff 100%);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
     }
-    .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
-  border-radius: 100px;
-  border: 2px solid #cc8321;
-  letter-spacing: 1px;
-  background-size: 108% 108%;
-  -webkit-text-fill-color: white;
-  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
-  min-width: 62px !important;
-  width: 62px !important;
-  min-height: 60px !important;
-  max-height: 60px !important;
-  display: none;
-}
+    .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {border-radius: 100px ;border: 2px solid #ffffff;letter-spacing: 1px;background-size: 108% 108%;-webkit-text-fill-color: white;animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+	margin-bottom: 15% !important;
+	margin-right: 5% !important;}
     .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .u-topic.dots.flex-grow-1 {
     text-transform: uppercase;
     -webkit-text-fill-color: transparent;
