@@ -1,4 +1,6 @@
 $(`<style>
+.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-radius: 50px !important;background-color: #transparent;
+}
 .fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o {
     border-radius: 0px 15px 15px 15px;
     display: inline-block;
@@ -6,6 +8,4 @@ $(`<style>
 	background-size: 100%;
 	padding: 5px !important;
     }
-.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic {background-color: transparent;letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;border-image: url(https://up6.cc/2023/03/167839668797841.gif);!important;background-color: #transparent;
-}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
