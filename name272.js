@@ -23,9 +23,6 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-
-$(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
   letter-spacing: 1px;
   background-size: 108% 108%;
@@ -52,4 +49,3 @@ $(`<style>
   display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-
