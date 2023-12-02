@@ -1,5 +1,5 @@
 $(`<style>
-.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic {background-image: url(https://up6.cc/2023/03/167839668797841.gif);letter-spacing: 1px;-webkit-text-fill-color: #ffffff;padding: 0px !important;background-color: #transparent;
+.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic {background-image: url(https://up6.cc/2023/03/167839668797841.gif);letter-spacing: 1px;-webkit-text-fill-color: #ffffff;border-radius: 50px !important;background-color: #transparent;
 }
 .fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o {
     border-radius: 0px 15px 15px 15px;
