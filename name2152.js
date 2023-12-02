@@ -1,5 +1,5 @@
 $(`<style>
-.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic {border: url(https://up6.cc/2023/03/167839668797841.gif);
+.fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o .fitimg.u-pic { 15px 0px 15px 0px;);
 }
 .fl.hand.nosel.uzr.uhtml.uid18c2bf8e193x0e1e5025x29gg9o {
     display: inline-block;
