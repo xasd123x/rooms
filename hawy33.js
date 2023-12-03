@@ -14,7 +14,7 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .mini.u-msg {
     text-align: center;
     -webkit-text-fill-color: #ffffff;
-    background-image: url(https://up6.cc/2023/12/170162505647371.gif);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;
+    background-image: url(https://up6.cc/2023/12/170162505647371.gif);-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 100%;
     }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .light.fl.pro.break {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
     }
