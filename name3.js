@@ -14,6 +14,7 @@ $(`<style>
     }
 .uzr.d-flex.mm.lid18c1bf3fb78xb2a85404-x4djf4f {border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170158549655641.jpg);
     }
+.uzr.d-flex.mm.pmsgc.lid1836c7009c1x22e23ce5-xuv0ogx {border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170158549655641.jpg);
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
     width: 13px !important;
     height: 13px !important;
