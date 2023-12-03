@@ -3,6 +3,7 @@ $(`<style>
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     display: inline-block;
+    min-height: 0%!important;    
     margin-right: 0;
     margin-left: 2px;
     margin-top: 3px;
