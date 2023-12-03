@@ -13,7 +13,7 @@ $(`<style>
     background-image: url(https://up6.cc/2023/02/167536001950611.gif);background-size: 220% auto;-webkit-background-clip: text;-webkit-text-fill-color: transparent;animation: textclip 1s linear infinite;display: inline-block;
     }
 
-.fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .uzr.d-flex.mm {
+.uzr.d-flex.mm.lid18c1bf3fb78xb2a85404-x4djf4f.milpp5gr7c00 {
     display: inline-block;
     ;border: 2px solid #424242;
     background-image: url(https://up6.cc/2023/12/170158549655641.jpg);
