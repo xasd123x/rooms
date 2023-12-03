@@ -4,7 +4,7 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     display: inline-block;
     border-radius: 15px 0px 15px 0px;border: 2px solid #ffffff;
-    background-image: url(https://up6.cc/2023/11/170121230754931.gif);
+    background-image: url(https://up6.cc/2023/12/17015852499881.jpg);
 	background-size: 100%;
     }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .mini.u-msg {
