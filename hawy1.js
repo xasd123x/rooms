@@ -29,4 +29,10 @@ $(`<style>
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
 }
+.hand.corner.nosel.lid18c1bf3fb78xb2a85404-x4djf4f {
+    display: inline-block;
+    border-radius: 15px 15px 15px 15px;border: 2px solid #424242;
+    background-image: url(https://up6.cc/2023/12/170162233518221.jpg);
+	background-size: 100%;
+    }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
