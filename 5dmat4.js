@@ -38,9 +38,8 @@ $(`<style>
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r {
     background-image: url(https://up6.cc/2023/12/170147034248551.gif);
-    background-size: cover;
-    border-radius: 15px 0px 15px 0px;border: 2px solid #424242;
     background-size: 100%;
+    border-radius: 15px 0px 15px 0px;border: 2px solid #424242;
     display: inline-block;
 }
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
