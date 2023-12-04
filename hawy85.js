@@ -27,7 +27,7 @@ $(`<style>
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
     width: 10px !important;
-    height: 16px !important;
+    height: 20px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
@@ -36,5 +36,8 @@ $(`<style>
     margin-top: 8px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
+}
+.fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .di2.flex-grow-1.break {
+    width: 230px !important;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
