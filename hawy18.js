@@ -22,6 +22,7 @@ $(`<style>
 .uzr.d-flex.mm.lid18c1bf3fb78xb2a85404-x4djf4f {border-radius: 5px 5px 5px 5px;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
+    border-bottom: 0.5px solid #000000;
     border: 0.5px solid #000000;
     }
 .uzr.d-flex.mm.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;
