@@ -32,8 +32,8 @@ $(`<style>
     width: 7px !important;
     height: 30px !important;
     border-radius: 5px 0px 0px 5px;
-    margin-right: 1px!important;
-    margin-left: 1px!important;
+    margin-right: 1px;
+    margin-left: 1px;
     margin-top: 16px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
