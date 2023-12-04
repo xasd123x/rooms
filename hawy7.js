@@ -31,9 +31,8 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
     width: 7px !important;
     height: 30px !important;
-    min-height: 0%!important;
-    margin-right: 1px!important;
     border-radius: 5px 0px 0px 5px;
+    margin-right: 1px!important;
     margin-left: 1px!important;
     margin-top: 16px;
     border: 1px solid #fff;
