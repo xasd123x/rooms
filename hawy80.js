@@ -5,7 +5,7 @@ $(`<style>
     background-size: 100%;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
     background-image: url(https://up6.cc/2023/12/170171058180011.jpg);
-    margin-right: -3px!important;
+    margin-right: -10px!important;
     margin-left: 2px!important;
     margin-top: 2px!important;
     margin-bottom: 2px!important;
