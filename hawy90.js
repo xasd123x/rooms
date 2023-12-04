@@ -31,7 +31,7 @@ $(`<style>
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 5px 5px 0px 0px;
+    border-radius: 5px 0px 0px 5px;
     margin-left: 0px;
     margin-top: 16px;
     border: 1px solid #fff;
