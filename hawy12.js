@@ -32,7 +32,6 @@ $(`<style>
     width: 7px !important;
     height: 30px !important;
     border-radius: 5px 0px 0px 5px;
-    min-height: 0%!important;
     margin-right: 1px!important;
     margin-left: 1px!important;
     margin-top: 16px!important;
