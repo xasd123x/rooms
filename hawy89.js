@@ -27,12 +27,12 @@ $(`<style>
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
     width: 9px !important;
-    height: 20px !important;
+    height: 40px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
-    border-radius: 5px 0 5px;
-    margin-left: 0.5px;
+    border-radius: 5px 5px 0px 0px;
+    margin-left: 0px;
     margin-top: 16px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
