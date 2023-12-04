@@ -10,7 +10,6 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     background-size: 100%;
     display: inline-block;
-    min-height: 0%!important;    
     margin-right: 0px!important;
     margin-left: 2px!important;
     margin-top: 3px!important;
