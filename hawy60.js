@@ -18,7 +18,6 @@ $(`<style>
     }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .mini.u-msg {
     text-align: center;
-    -webkit-text-fill-color: #ffffff;
     background-image: url(https://up6.cc/2023/12/170162505647371.gif);margin-right: 3px!important;
     margin-left: 2px!important;
     margin-top: 2px!important;
