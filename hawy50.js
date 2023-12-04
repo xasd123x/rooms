@@ -10,7 +10,7 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     background-size: 100%;
     display: inline-block;
-    margin-right: 20px!important;
+    margin-right: 2px!important;
     margin-left: 2px!important;
     margin-top: 2px!important;
     margin-down: 2px!important;
