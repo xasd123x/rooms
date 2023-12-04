@@ -14,7 +14,7 @@ $(`<style>
     margin-right: 3px!important;
     margin-left: 2px!important;
     margin-top: 2px!important;
-    margin-lowest: 13px!important;
+    margin-bottom: 13px!important;
     }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .mini.u-msg {
     text-align: center;
