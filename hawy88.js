@@ -29,11 +29,11 @@ $(`<style>
     width: 9px !important;
     height: 20px !important;
     min-height: 0%!important;
-    margin-right: 0.5;
+    margin-right: 0;
     z-index: 999999;
     border-radius: 5px 0 5px;
     margin-left: 0.5px;
-    margin-top: 8px;
+    margin-top: 16px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
