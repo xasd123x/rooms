@@ -8,7 +8,6 @@ $(`<style>
     border-radius: 10px 10px 10px 10px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #ffffff;);
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
-    background-size: 100%;
     display: inline-block;
     min-height: 0%!important;    
     margin-right: 2px!important;
