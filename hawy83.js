@@ -26,8 +26,8 @@ $(`<style>
 .uzr.d-flex.mm.pmsgc.lid18c1bf3fb78xb2a85404-x4djf4f {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170171058180011.jpg);
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
-    width: 13px !important;
-    height: 13px !important;
+    width: 10px !important;
+    height: 16px !important;
     min-height: 0%!important;
     margin-right: 0;
     z-index: 999999;
