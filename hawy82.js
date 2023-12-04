@@ -32,7 +32,7 @@ $(`<style>
     margin-right: 0;
     z-index: 999999;
     border-radius: 5px 0 5px;
-    margin-left: 2px;
+    margin-left: 1px;
     margin-top: 10px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
