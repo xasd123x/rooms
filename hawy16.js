@@ -29,7 +29,7 @@ $(`<style>
 .uzr.d-flex.mm.pmsgc.lid18c1bf3fb78xb2a85404-x4djf4f {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170171058180011.jpg);
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
-    width: 30px !important;
+    width: 10px !important;
     height: 30px !important;
     border-radius: 5px 0px 0px 5px;
     margin-right: 1px!important;
