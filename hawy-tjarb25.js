@@ -1,5 +1,5 @@
 var rid='lid18c1bf3fb78xb2a85404-x4djf4f';
-.#upro.hawy.light.fl.pro.break[onclick="rjoin('${rid}')"] {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
+#upro.hawy.light.fl.pro.break[onclick="rjoin('${rid}')"] {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
 }`);
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
