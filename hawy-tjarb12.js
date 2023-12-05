@@ -1,5 +1,8 @@
-$("style:eq(0)").append(`.light.fl.pro.break [onclick="rjoin('18c3b08aec6xef66ed67x46dsle')"]{
-background-image: url(https://up6.cc/2023/12/17015914200661.jpg); background-size: cover;
+$("style:eq(0)").append(`#d2 .roomh.18c1c14a6c4x52a495a1-xl7kq5r {
+background-size: 220% auto;border-radius: 10px !important;border: 1px solid #0000;
+}`);
+$("style:eq(0)").append(`#upro .roomh.18c1c14a6c4x52a495a1-xl7kq5r {
+background-image: url(https://up6.cc/2023/12/170162505647371.gif); background-size: cover;border-radius: 10px !important;color: #ffffff;
 }`);
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
