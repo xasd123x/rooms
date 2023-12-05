@@ -1,12 +1,4 @@
 $(`<style>
-.#d2.roomh.18c1c14a6c4x52a495a1-xl7kq5r {
-background-image: url(https://up6.cc/2023/12/170162505647371.gif); background-size: cover;border-radius: 10px !important;color: #ffffff;
-} 
-</style>`)
-$("style:eq(0)").append(`#upro.roomh.18c1c14a6c4x52a495a1-xl7kq5r {
-background-image: url(https://up6.cc/2023/12/170162505647371.gif); background-size: cover;border-radius: 10px !important;color: #ffffff;
-}`);
-$(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
     height: 50px !important;border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;margin-top: 5px!important;
 }
