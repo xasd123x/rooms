@@ -1,7 +1,7 @@
-$("style:eq(0)").append(`#d2 .roomh.18c1c14a6c4x52a495a1-xl7kq5r {
+$("style:eq(0)").append(`#d2.roomh.18c1c14a6c4x52a495a1-xl7kq5r {
 background-size: 220% auto;border-radius: 10px !important;border: 1px solid #0000;
 }`);
-$("style:eq(0)").append(`#upro .roomh.18c1c14a6c4x52a495a1-xl7kq5r {
+$("style:eq(0)").append(`#upro.roomh.18c1c14a6c4x52a495a1-xl7kq5r {
 background-image: url(https://up6.cc/2023/12/170162505647371.gif); background-size: cover;border-radius: 10px !important;color: #ffffff;
 }`);
 $(`<style>
