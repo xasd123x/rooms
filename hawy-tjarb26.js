@@ -1,5 +1,5 @@
 var rid='lid18c1bf3fb78xb2a85404-x4djf4f';
-#upro.hawy.light.fl.pro.break[onclick="rjoin('${rid}')"] {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
+$("style:eq(0)").append(`#upro.hawy1.light.fl.pro.break[onclick="rjoin('${rid}')"] {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
 }`);
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
@@ -66,6 +66,22 @@ $(`<style>#mic4 {margin-right: 8px !important;}
     }
 }</style>`).insertBefore('body');
 $("style").last().append(`
+#upro.hawy1 .border {
+  border-radius:  3px!important;
+  border: 1px solid #bfbfbf;
+}
+$(`<style>#mic4 {margin-right: 8px !important;}
+#mic.hawy1 .mic {
+    border: 0px solid;
+    animation: huerotate 2s infinite linear;
+    filter: hue-rotate(360deg);
+    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
+    margin: 3px;
+    margin-top: 1px;
+	height: 48px;
+	background-color: #B0B0B0;
+	border-radius: 50px !important;
+}
 #upro.hawy1 .light.fl.pro.break {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
     }
 var hawy = false;
