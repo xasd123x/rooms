@@ -1,5 +1,5 @@
-var rid='18c3b08aec6xef66ed67x46dsle';
-$("style:eq(0)").append(`#upro .light.fl.pro.break [onclick="rjoin('${rid}')"]{
+var rid='18c1bf3fb78xb2a85404-x4djf4f';
+$("style:eq(0)").append(`#lid .light.fl.pro.break [onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2023/12/17015914200661.jpg); background-size: cover;border-radius: 10px !important;
 }`);
 $(`<style>
