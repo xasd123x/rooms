@@ -62,7 +62,7 @@ $(`<style>#mic4 {margin-right: 8px !important;}
         filter: hue-rorate(360deg);
     }
 }</style>`).insertBefore('body');
-$("style")
+$("style").last().append(`
 #upro.hawy1 .light.fl.pro.break {border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
     }
 var hawy = false;
