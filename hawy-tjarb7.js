@@ -1,4 +1,4 @@
-var rid='18c3ad2c720x5de958e7-xoe8yea';
+var rid='18c3b08aec6xef66ed67x46dsle';
 $("style:eq(0)").append(`#upro .light.fl.pro.break [onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2023/12/17015914200661.jpg); background-size: cover;border-radius: 10px !important;
 }`);
