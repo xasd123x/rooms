@@ -33,7 +33,7 @@ $(`<style>
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
     width: 7px !important;
-    height: 35px !important;
+    height: 40px !important;
     border-radius: 5px 0px 0px 5px;
     margin-right: 1px!important;
     margin-left: 1px!important;
