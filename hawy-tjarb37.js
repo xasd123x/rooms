@@ -1,6 +1,6 @@
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
-    height: 58px !important;border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;margin-top: 5px!important;margin-bottom: 2px!important;
+    height: 58px !important;border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;margin-top: 5px!important;margin-bottom: 4px!important;
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     background-size: 100%;
