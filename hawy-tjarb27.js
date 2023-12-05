@@ -70,7 +70,6 @@ $("style").last().append(`
   border-radius:  3px!important;
   border: 1px solid #bfbfbf;
 }
-$(`<style>#mic4 {margin-right: 8px !important;}
 #mic.hawy1 .mic {
     border: 0px solid;
     animation: huerotate 2s infinite linear;
