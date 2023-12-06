@@ -1,3 +1,4 @@
+var rid='18c1d51b916x6921ecex-7yj6pt';
 $("style:eq(0)").append(`#img .My_itar[onclick="rjoin('${rid}')"]{margin-left: 5px;margin-right: auto;min-width: 20px !important;width: 20px !important;min-height: 50px !important;max-height: 50px !important;margin-top: 20px;" src(https://i.ibb.co/HdQKHZK/image.gif);
 }`);
 $(`<style>
