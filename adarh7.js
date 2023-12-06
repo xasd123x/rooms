@@ -14,7 +14,7 @@ $(`<style>
   -webkit-text-fill-color: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h .label.label-primary.fa.fa-user.uc {
+.nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h label.label-primary.fa.fa-user.uc {
   letter-spacing: 1px;
   -webkit-text-fill-color: #000;
   border-radius: 15px 0px 15px 0px !important;
@@ -138,7 +138,6 @@ height: 52px;
     height: 13px !important;
     min-height: 0%!important;
     margin-right: 0;
-    z-index: 999999;
     border-radius: 50px;
     margin-left: 1px;
     margin-top: 1px;
