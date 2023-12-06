@@ -138,7 +138,6 @@ height: 52px;
     height: 13px !important;
     min-height: 0%!important;
     margin-right: 0;
-    z-index: 999999;
     border-radius: 50px;
     margin-left: 1px;
     margin-top: 1px;
