@@ -1,10 +1,4 @@
-var rid='18c1c14a6c4x52a495a1-xl7kq5r';
-$("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius: 10px !important;border: 1px solid #0000;
-}`);
-$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/12/170161252999561.png); background-size: cover;border-radius: 10px !important;color: #ffffff;
-}`);
+var rid='18c1c14a6c4x52a495a1-xl7kq5r = ['<img id="My_itar0" style="margin-left: -17px;margin-right: auto;min-width: 100px !important;width: 100px !important;min-height: 86px !important;max-height: 70px !important;margin-top: -11px;" src="https://i.ibb.co/HdQKHZK/image.gif">', "prepend",
 
 $(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
