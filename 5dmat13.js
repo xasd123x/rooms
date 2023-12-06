@@ -1,4 +1,4 @@
-var rid='18c1c14a6c4x52a495a1-xl7kq5r = ['<img id="My_itar0" style="margin-left: -17px;margin-right: auto;min-width: 100px !important;width: 100px !important;min-height: 86px !important;max-height: 70px !important;margin-top: -11px;" src="https://i.ibb.co/HdQKHZK/image.gif">', "prepend",
+var ='18c1c14a6c4x52a495a1-xl7kq5r = ['<img id="My_itar0" style="margin-left: -17px;margin-right: auto;min-width: 100px !important;width: 100px !important;min-height: 86px !important;max-height: 70px !important;margin-top: -11px;" src="https://i.ibb.co/HdQKHZK/image.gif">', "prepend",
 
 $(`<style>
 .nosel.d-flex.room.r18c1c14a6c4x52a495a1-xl7kq5r .d-flex.fitimg.u-pic {
