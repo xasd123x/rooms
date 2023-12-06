@@ -315,7 +315,7 @@ button.rsave.btn.btn-primary.fl.room-adarh1 {
 
 
 `);
-var room-adarh = false;
+var room_adarh = false;
 setInterval(function () {
     if (myroom == '1872f700a8ex138ba961x-m19n3h') {
         if (room-adarh == false) {
