@@ -17,7 +17,7 @@ $(`<style>
 .nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h label.label-primary.fa.fa-user.uc {
   letter-spacing: 1px;
   -webkit-text-fill-color: #000;
-  border-radius: 15px 0px 15px 0px !important;
+  border-radius: 20px 0px 20px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
@@ -41,7 +41,7 @@ $(`<style>
     height: 151px !important;
     background-image: url(https://up6.cc/2023/12/170196865916951.gif);
     background-size: cover;
-    border-radius: 15px 0px 15px 0px;
+    border-radius: 20px 0px 20px 0px;
     display: inline-block;
 }
 .nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h .d-flex.fitimg.u-pic {
@@ -96,7 +96,7 @@ $("style").last().append(`
   border: 1px solid #bfbfbf;
 }
 #upro.room_adarh1 .modal-header.label-primary {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 20px 0px 20px 0px;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -122,7 +122,7 @@ margin-left: -12px;
 height: 52px;
 }
 #d0.room_adarh1 {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 20px 0px 20px 0px;
   border: 1px solid #ecdce41c;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
   background-size: cover;
@@ -147,7 +147,7 @@ height: 52px;
 }
 #users.room_adarh1 img.co{border-radius:  50px !important;transform:rotate(20deg);margin-top:2px!important}
 #users.room_adarh1 .nosel.ninr.fl.uzr.label.bg {
-    border-radius: 15px 0px 15px 0px!important;
+    border-radius: 20px 0px 20px 0px!important;
     background-color: #b2b2b2;
     color: #181818;
     background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -161,7 +161,7 @@ height: 52px;
     background-size: 100%;
 }
 #settings.room_adarh1 .label-primary {
-  border-radius: 15px 0px 15px 0px!important;
+  border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -169,7 +169,7 @@ height: 52px;
   color: #181818;
 }
 #settings.room_adarh1 .btn-primary {
-  border-radius: 15px 0px 15px 0px!important;
+  border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -185,7 +185,7 @@ height: 52px;
 #room.room_adarh1 #mic{
 background-image: url(https://up6.cc/2023/11/170009102791191.png);
 background-size: cover;
-border-radius: 15px 0px 15px 0px!important;
+border-radius: 20px 0px 20px 0px!important;
 }
 
 #d0.room_adarh1 .nosel.fl .bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d0.room_adarh1 .bg-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d2.room_adarh1 .label-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}
@@ -212,7 +212,7 @@ border-radius: 15px 0px 15px 0px!important;
     border-radius: 50px;
     margin-top: 1px;
     border: 1px solid;
-    clip-path: inset(0px round 15px 0px 15px 0px);
+    clip-path: inset(0px round 20px 0px 20px 0px);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 #wall.room_adarh1 .fitimg.u-pic {
@@ -231,13 +231,13 @@ filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.room_adarh1 {
-  border-radius: 15px 0px 15px 0px!important;
+  border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
   background-size: cover;
 }
 .modal-header.label-primary.room_adarh1 {
-    border-radius: 15px 0px 15px 0px!important;
+    border-radius: 20px 0px 20px 0px!important;
     border: 1px solid #ecdce4;
     background-color: #b2b2b2!important;
 	background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -311,7 +311,7 @@ button.border.btn.label.label-success.fl.fa.fa-plus.room_adarh1 {
 button.rsave.btn.btn-primary.fl.room_adarh1 {
    background-image: url(https://up6.cc/2023/11/170009102791191.png);
    background-size: cover;
-   border-radius: 15px 0px 15px 0px!important;
+   border-radius: 20px 0px 20px 0px!important;
 }
 
 
