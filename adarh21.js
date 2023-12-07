@@ -147,7 +147,7 @@ height: 52px;
 }
 #users.room_adarh1 img.co{border-radius:  50px !important;transform:rotate(20deg);margin-top:2px!important}
 #users.room_adarh1 .nosel.ninr.fl.uzr.label.bg {
-    border-radius: 15px 0px 15px 0px;
+    border-radius: 15px 0px 15px 0px!important;
     background-color: #b2b2b2;
     color: #181818;
     background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -161,7 +161,7 @@ height: 52px;
     background-size: 100%;
 }
 #settings.room_adarh1 .label-primary {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 15px 0px 15px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -169,7 +169,7 @@ height: 52px;
   color: #181818;
 }
 #settings.room_adarh1 .btn-primary {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 15px 0px 15px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -185,7 +185,7 @@ height: 52px;
 #room.room_adarh1 #mic{
 background-image: url(https://up6.cc/2023/11/170009102791191.png);
 background-size: cover;
-border-radius: 15px 0px 15px 0px;
+border-radius: 15px 0px 15px 0px!important;
 }
 
 #d0.room_adarh1 .nosel.fl .bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d0.room_adarh1 .bg-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}#d2.room_adarh1 .label-primary{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%)}
@@ -231,13 +231,13 @@ filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.room_adarh1 {
-  border-radius: 15px 0px 15px 0px;
+  border-radius: 15px 0px 15px 0px!important;
   border: 1px solid #ecdce4;
   background-image: url(https://up6.cc/2023/11/170009102791191.png);
   background-size: cover;
 }
 .modal-header.label-primary.room_adarh1 {
-    border-radius: 15px 0px 15px 0px;
+    border-radius: 15px 0px 15px 0px!important;
     border: 1px solid #ecdce4;
     background-color: #b2b2b2!important;
 	background-image: url(https://up6.cc/2023/11/170009102791191.png);
@@ -311,7 +311,7 @@ button.border.btn.label.label-success.fl.fa.fa-plus.room_adarh1 {
 button.rsave.btn.btn-primary.fl.room_adarh1 {
    background-image: url(https://up6.cc/2023/11/170009102791191.png);
    background-size: cover;
-   border-radius: 15px 0px 15px 0px;
+   border-radius: 15px 0px 15px 0px!important;
 }
 
 
