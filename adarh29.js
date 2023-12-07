@@ -303,7 +303,7 @@ border-radius: 50px;
 }
 button.breply.corner.btn.minix.btn-primary.fa.fa-comments.room_adarh1 {
    border-radius: 50px;
-   background-color: #b0aca7;
+   background-color: #b0aca7!important;
 }
 button.blike.corner.btn.minix.btn-danger.fa.fa-heart.room_adarh1 {
    border-radius: 50px;
