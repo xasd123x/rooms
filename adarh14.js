@@ -32,7 +32,7 @@ $(`<style>
 	margin-left: 11px;
 	-webkit-text-fill-color: transparent;
 	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/02/167536001950611.gif);
+	background-image: url(https://up6.cc/2023/12/170196776795031.gif);
 	-webkit-background-clip: text;
 	color: transparent !important;
 	background-size: 90% 100%;
