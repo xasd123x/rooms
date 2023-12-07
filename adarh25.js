@@ -99,7 +99,7 @@ $("style").last().append(`
   border-radius: 20px 0px 20px 0px;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/11/170009102791191.png);
+  background-image: url(https://up6.cc/2023/12/170197755918011.png);
   background-size: cover;
 }
 #d2.room_adarh1 .uzr .fitimg.u-pic {
@@ -124,10 +124,10 @@ height: 52px;
 #d0.room_adarh1 {
   border-radius: 20px 0px 20px 0px;
   border: 1px solid #ecdce41c;
-  background-image: url(https://up6.cc/2023/11/170009102791191.png);
+  background-image: url(https://up6.cc/2023/12/170197755918011.png);
   background-size: cover;
 }
-#d2.room_adarh1 .label-primary{background-color:#b77c9a!important}#d2.room_adarh1 .bg{background-color:#b77c9a!important}#d2.room_adarh1 .uzr.d-flex.mm.hmsg{border-radius: 50px;background-color: #6d6d6d1f!important;}#dpnl.room_adarh1{background-size: 100%;background-image: url(https://up6.cc/2023/11/170009102791191.png);background-color: #b2b2b2;  }#dpnl.room_adarh1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.room_adarh1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.room_adarh1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
+#d2.room_adarh1 .label-primary{background-color:#b77c9a!important}#d2.room_adarh1 .bg{background-color:#b77c9a!important}#d2.room_adarh1 .uzr.d-flex.mm.hmsg{border-radius: 50px;background-color: #6d6d6d1f!important;}#dpnl.room_adarh1{background-size: 100%;background-image: url(https://up6.cc/2023/12/170197755918011.png);background-color: #b2b2b2;  }#dpnl.room_adarh1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.room_adarh1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.room_adarh1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.room_adarh1 .mini.u-msg{text-align:center;}#dpnl.room_adarh1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.room_adarh1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.room_adarh1 .label-primary {
     border-radius:  50px !important;
@@ -150,7 +150,7 @@ height: 52px;
     border-radius: 20px 0px 20px 0px!important;
     background-color: #b2b2b2;
     color: #181818;
-    background-image: url(https://up6.cc/2023/11/170009102791191.png);
+    background-image: url(https://up6.cc/2023/12/170197755918011.png);
     background-size: cover;
 }
 #d0.room_adarh1 .label-primary {
@@ -164,7 +164,7 @@ height: 52px;
   border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/11/170009102791191.png);
+  background-image: url(https://up6.cc/2023/12/170197755918011.png);
   background-size: cover;
   color: #181818;
 }
@@ -172,7 +172,7 @@ height: 52px;
   border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
   background-color: #b2b2b2!important;
-  background-image: url(https://up6.cc/2023/11/170009102791191.png);
+  background-image: url(https://up6.cc/2023/12/170197755918011.png);
   background-size: cover;
   color: #181818;
 }
@@ -183,7 +183,7 @@ height: 52px;
     border: 1px solid #efefef;
 }
 #room.room_adarh1 #mic{
-background-image: url(https://up6.cc/2023/11/170009102791191.png);
+background-image: url(https://up6.cc/2023/12/170197755918011.png);
 background-size: cover;
 border-radius: 20px 0px 20px 0px!important;
 }
@@ -233,14 +233,14 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .corner.border.label.label-primary.room_adarh1 {
   border-radius: 20px 0px 20px 0px!important;
   border: 1px solid #ecdce4;
-  background-image: url(https://up6.cc/2023/11/170009102791191.png);
+  background-image: url(https://up6.cc/2023/12/170197755918011.png);
   background-size: cover;
 }
 .modal-header.label-primary.room_adarh1 {
     border-radius: 20px 0px 20px 0px!important;
     border: 1px solid #ecdce4;
     background-color: #b2b2b2!important;
-	background-image: url(https://up6.cc/2023/11/170009102791191.png);
+	background-image: url(https://up6.cc/2023/12/170197755918011.png);
     background-size: cover;
 }
 .head.d-flex.nosel.bg.fl.room_adarh1, .rsave.btn.btn-primary.fr.room_adarh1, .fa.fa-send.sndpm.fl.btn.btn-primary.room_adarh1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.room_adarh1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.room_adarh1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.room_adarh1, .fa.fa-send.sndbc.fl.btn.btn-primary.room_adarh1 {
@@ -309,7 +309,7 @@ button.border.btn.label.label-success.fl.fa.fa-plus.room_adarh1 {
    border-radius: 50px;
 }
 button.rsave.btn.btn-primary.fl.room_adarh1 {
-   background-image: url(https://up6.cc/2023/11/170009102791191.png);
+   background-image: url(https://up6.cc/2023/12/170197755918011.png);
    background-size: cover;
    border-radius: 20px 0px 20px 0px!important;
 }
