@@ -31,8 +31,6 @@ $(`<style>
     margin-top: 53px !important;
 	margin-left: 11px;
 	-webkit-text-fill-color: transparent;
-	animation: textclip 2s linear infinite;
-	background-image: url(https://up6.cc/2023/12/170196776795031.gif);
 	-webkit-background-clip: text;
 	color: transparent !important;
 	background-size: 90% 100%;
@@ -41,7 +39,7 @@ $(`<style>
 .nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h {
     width: 324px !important;
     height: 151px !important;
-    background-image: url(https://up6.cc/2023/12/170196844116321.gif);
+    background-image: url(https://up6.cc/2023/12/170196865916951.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
