@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  50px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/11/170009087923123.png); background-size: cover;color: #000000;
+background-image: url(https://up6.cc/2023/12/170197875301381.png); background-size: cover;color: #000000;
 }`);
 
 
@@ -156,7 +156,7 @@ height: 52px;
 #d0.room_adarh1 .label-primary {
     border: 1px solid #e7e7e7 !important;
     border-radius:  50px !important;
-    background-image: url(https://up6.cc/2023/11/170009087923123.png);
+    background-image: url(https://up6.cc/2023/12/170197875301381.png);
     color: #181818;
     background-size: 100%;
 }
@@ -192,7 +192,7 @@ border-radius: 20px 0px 20px 0px!important;
 #room.room_adarh1 .btn-primary {
     border-radius:  50px !important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/11/170009087923123.png);
+    background-image: url(https://up6.cc/2023/12/170197875301381.png);
     background-size: cover;
     color: #181818;
     font-size: 14px !important;
@@ -246,19 +246,19 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .head.d-flex.nosel.bg.fl.room_adarh1, .rsave.btn.btn-primary.fr.room_adarh1, .fa.fa-send.sndpm.fl.btn.btn-primary.room_adarh1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.room_adarh1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.room_adarh1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.room_adarh1, .fa.fa-send.sndbc.fl.btn.btn-primary.room_adarh1 {
     border-radius:  50px !important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/11/170009087923123.png);
+    background-image: url(https://up6.cc/2023/12/170197875301381.png);
     color: #181818;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.room_adarh1 {
     border-radius:  50px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/11/170009087923123.png);
+    background-image: url(https://up6.cc/2023/12/170197875301381.png);
     color: #181818;
 }
 .label.fl.label-primary.room_adarh1 {
     border-radius:  50px !important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/11/170009087923123.png);
+    background-image: url(https://up6.cc/2023/12/170197875301381.png);
     color: #181818;
 }
 #rooms.room_adarh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.room_adarh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.room_adarh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
