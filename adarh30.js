@@ -37,8 +37,6 @@ $(`<style>
 	opacity:0;
 }
 .nosel.d-flex.room.r1872f700a8ex138ba961x-m19n3h {
-    width: 324px !important;
-    height: 151px !important;
     background-image: url(https://up6.cc/2023/12/170196865916951.gif);
     background-size: cover;
     border-radius: 20px 0px 20px 0px;
