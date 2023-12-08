@@ -29,6 +29,7 @@ $(`<style>
 .nosel.d-flex.room.r18a7a6cc3aexc19cd8f3-xwe9djx .mini.u-msg.flex-grow-1{
     text-align: center;
     margin-top: 53px !important;
+    margin-bottom: 30px !important;
 	margin-left: 11px;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
