@@ -28,8 +28,8 @@ $(`<style>
 .nosel.d-flex.room.r18a7a6cc3aexc19cd8f3-xwe9djx.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18a7a6cc3aexc19cd8f3-xwe9djx .mini.u-msg.flex-grow-1{
     text-align: center;
-    margin-top: 53px !important;
-    margin-bottom: 53px !important;
+    margin-top: 60px !important;
+    margin-bottom: 60px !important;
 	margin-left: 11px;
 	-webkit-text-fill-color: transparent;
 	-webkit-background-clip: text;
