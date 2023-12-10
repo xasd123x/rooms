@@ -42,7 +42,7 @@ margin-bottom: 2px!important;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 var rid='lid17f50b8ef6fx1a21c9a4-x2s7ldm';
-$("style").last().append(`#upro .light.fl.pro.break[onclick="rjoin('${rid}')"]{
+$("style").last().append(`#upro .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170215305562121.jpg);
     background-size: 100%;
 }`);
