@@ -45,7 +45,7 @@ $("style").last().append(`#upro .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
-#upro .bgf.fl.u-pic.fitimg {
+#upro .fitimg.fl.u-pic {
     border: 1px solid;
     clip-path: inset(0px round 0px 0px 0px 50px);
     animation: huerotate 2s infinite linear;
