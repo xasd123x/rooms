@@ -13,7 +13,7 @@ $("style").last().append(`
 }`);
 var hawy = false;
 setInterval(function () {
-    if (myuser == '17f50b8ef6fx1a21c9a4-x2s7ldm') {
+    if (myroom == '17f50b8ef6fx1a21c9a4-x2s7ldm') {
         if (hawy == false) {
             hawy = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('hawy1');
