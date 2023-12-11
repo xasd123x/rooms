@@ -15,6 +15,5 @@ var l_itvhawy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('.00.0..')").addClass('hawy1');
-        $("#upro").modal("hide");
 }
 }, 10000);
