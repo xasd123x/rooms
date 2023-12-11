@@ -63,6 +63,5 @@ var l_itvshihanh=setInterval(function(){
         clearInterval(l_itvshihanh);
         $("#users .uzr:contains('شيهَانـَه')").addClass('shihanh1');
         $("#upro").modal("hide"); 
-});
     }
 }, 10000);
