@@ -15,7 +15,6 @@ var l_itvhawy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('00.0')").addClass('hawy1');
-        $("#users .uzr.hawy1 .fitimg.u-pic").append('<img class="hawy_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
