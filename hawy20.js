@@ -2,6 +2,10 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid17f50b8ef6fx1a21c9a4-x2s7ldm .fitimg.u-pic {width: 58px !important;
     height: 58px !important;border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;margin-top: 5px!important;margin-bottom: 4px!important;
 }
+.upro.lid17f50b8ef6fx1a21c9a4-x2s7ldm .light.fl.pro.break {
+    background-image: url(https://up6.cc/2023/12/170224184664141.png);
+    background-size: 100%;
+}
 .fl.hand.nosel.uzr.uhtml.lid17f50b8ef6fx1a21c9a4-x2s7ldm {
     background-size: 100%;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
@@ -41,7 +45,8 @@ margin-bottom: 2px!important;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-$("style").last().append(`#upro.lid17f50b8ef6fx1a21c9a4-x2s7ldm .light.fl.pro.break {
+$("style").last().append(`
+#upro.lid17f50b8ef6fx1a21c9a4-x2s7ldm .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
