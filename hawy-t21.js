@@ -1,9 +1,9 @@
 $("style").last().append(`
-#upro .uzr.hawy1 .light.fl.pro.break {
+#upro .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
-#upro .uzr.hawy1 .light.fitimg.fl.u-pic {
+#upro .light.fitimg.fl.u-pic {
     border: 1px solid;
     clip-path: inset(0px round 0px 0px 0px 50px);
     animation: huerotate 2s infinite linear;
@@ -11,9 +11,3 @@ $("style").last().append(`
 #upro .uzr.hawy1 .fl.u-pic.fitimg {
     border-radius: 0px 50px 0px 50px !important;
 }`);
-var l_itvhawy=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvhawy);
-        $("#users .uzr:contains('.00.0..')").addClass('hawy1');
-}
-}, 10000);
