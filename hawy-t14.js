@@ -16,5 +16,5 @@ var l_itvhawy=setInterval(function(){
         clearInterval(l_itvhawy);
         $("#users .uzr:lid('17f50b8ef6fx1a21c9a4-x2s7ldm')").addClass('hawy1');
         $("#upro").modal("hide");
-});
+}
 }, 10000);
