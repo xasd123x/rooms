@@ -8,7 +8,7 @@ $("style").last().append(`
     clip-path: inset(0px round 0px 0px 0px 50px);
     animation: huerotate 2s infinite linear;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
-    #upro.hawy1 .fl.u-pic.fitimg {
+    #upro .uzr.hawy1 .fl.u-pic.fitimg {
     border-radius: 0px 50px 0px 50px !important;
 }`);
 var l_itvhawy=setInterval(function(){
