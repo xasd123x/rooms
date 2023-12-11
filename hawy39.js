@@ -55,6 +55,14 @@ $("style").last().append(`
     clip-path: inset(0px round 0px 0px 0px 50px);
     animation: huerotate 2s infinite linear;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
-    #upro.tro7wrpro .fl.u-pic.fitimg {
+#upro .fl.u-pic.fitimg {
     border-radius: 0px 50px 0px 50px !important;
 }`);
+var l_itvshihanh=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvshihanh);
+        $("#users .uzr:contains('شيهَانـَه')").addClass('shihanh1');
+        $("#upro").modal("hide"); 
+});
+    }
+}, 10000);
