@@ -1,4 +1,4 @@
-$("style:eq(0)").append(`.light.fl.pro.break.lid18c1bf3fb78xb2a85404-x4djf4f {
+$("style:eq(0)").append(`#upro .light.fl.pro.break.lid18c1bf3fb78xb2a85404-x4djf4f {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }`);
@@ -60,10 +60,3 @@ $("style").last().append(`
 #upro .hawy1.fl.u-pic.fitimg {
     border-radius: 0px 50px 0px 50px !important;
 }`);
-var l_itvhawy=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvhawy);
-        $("#users .uzr:contains('هااوي')").addClass('hawy1');
-        $("#upro").modal("hide");
-    }
-    }, 10);
