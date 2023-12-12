@@ -60,3 +60,5 @@ var l_itvhawy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('iiiiii')").addClass('hawy1');
+    }
+    }, 10);
