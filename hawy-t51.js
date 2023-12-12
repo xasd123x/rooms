@@ -60,5 +60,6 @@ var l_itvhawy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('هااوي')").addClass('hawy1');
+        $("#upro").modal("hide");
     }
     }, 10);
