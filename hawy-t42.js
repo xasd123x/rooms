@@ -56,9 +56,9 @@ $("style").last().append(`
 #upro.hawy1 .fl.u-pic.fitimg {
     border-radius: 0px 50px 0px 50px !important;
 }`);
-var l_itvhaydy=setInterval(function(){
+var l_itvhawy=setInterval(function(){
     if(myid!=null){
-        clearInterval(l_itvhaydy);
+        clearInterval(l_itvhawy);
         $("#users .uzr:contains('iiiiii')").addClass('hawy1');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
