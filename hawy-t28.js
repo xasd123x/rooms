@@ -1,5 +1,5 @@
 var lid='17f50b8ef6fx1a21c9a4-x2s7ldm';
-$("style:eq(0)").append(`#upro .light.fl.pro.break[onclick="rjoin('${lid}')"]{
+$("style:eq(0)").append(`#upro .light.fl.pro.break[onclick="rjoin('lid17f50b8ef6fx1a21c9a4-x2s7ldm')"]{
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }`);
