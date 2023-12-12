@@ -44,7 +44,7 @@ margin-bottom: 2px!important;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $("style").last().append(`
-#upro .hawy1.light.fl.pro.break {
+#upro.modal.in .hawy1.light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
