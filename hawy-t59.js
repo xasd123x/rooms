@@ -1,4 +1,4 @@
-$("style:eq(0)").append(`#upro .light.fl.pro.break[onclick="upro('18c5f75229exe23c32f3-xcs8n7z')"]{
+$("style:eq(0)").append(`#upro .light.fl.pro.break[onclick="uid('18c5f75229exe23c32f3-xcs8n7z')"]{
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }`);
