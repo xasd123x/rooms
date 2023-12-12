@@ -1,4 +1,4 @@
-var rid='18c1bf3fb78xb2a85404';
+var myid='lid18c1bf3fb78xb2a85404-x4djf4f';
 $("style:eq(0)").append(`#upro .light.fl.pro.break[onclick="rjoin('${rid}')"]{
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
