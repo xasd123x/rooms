@@ -42,7 +42,7 @@ margin-bottom: 2px!important;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $("style").last().append(`
-#upro .lid18c1bf3fb78xb2a85404-x4djf4f.light.fl.pro.break {
+#upro .lid18c1bf3fb78xb2a85404-x4djf4f .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170197755919622.png);
     background-size: 100%;
 }`);
