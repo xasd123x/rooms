@@ -41,7 +41,7 @@ margin-bottom: 2px!important;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 .nosel.fl.bg {
-    background-image: url(https://up6.cc/2023/12/170257320247871.png);
+    background-image: url(https://up6.cc/2023/12/170257478081611.gif);
     background-size: 100%;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
