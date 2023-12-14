@@ -40,8 +40,8 @@ margin-bottom: 2px!important;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
-.nosel.fl.bg {
-    background-image: url(https://up6.cc/2023/12/170257502335782.gif);
+.light.fl.pro.break {
+    background-image: url(https://up6.cc/2023/12/17015914200661.jpg);
     background-size: 100%;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
