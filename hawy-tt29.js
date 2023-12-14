@@ -40,7 +40,7 @@ margin-bottom: 2px!important;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
-.lid="18c1bf3fb78xb2a85404-x4djf4f" .light.fl.pro.break {
+.lid18c1bf3fb78xb2a85404-x4djf4f .light.fl.pro.break {
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
