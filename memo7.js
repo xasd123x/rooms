@@ -19,11 +19,11 @@ $(`<style>
   -webkit-text-fill-color: #827074;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 90px !important;
+  margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 125px!important;
+  margin-left: 240px!important;
 }
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .mini.u-msg.flex-grow-1 {
