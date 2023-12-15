@@ -181,7 +181,7 @@ height: 52px;
     background-color: #cab7bb;
     border: 1px solid #efefef;
 }
-#users.memo1 .flex-grow-1.tbox.bg.border {
+#rooms.memo1 .tbox {
     border-radius:  10px 0 10px!important;
     background-color: #cab7bb;
     border: 1px solid #efefef;
