@@ -1,9 +1,9 @@
 var rid='18be7bce4e3xbc936082xxskjj7';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
+background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/12/170265736196952.png); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2023/12/170265736196952.png); background-size: cover;color: #666666;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
 }`);
 
 
