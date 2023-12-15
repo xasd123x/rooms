@@ -26,7 +26,7 @@ $(`<style>
   margin-left: 125px!important;
 }
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .dots.mini.u-msg {
+.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .mini.u-msg.flex-grow-1 {
     text-align: center;
     margin-top: 53px !important;
 	margin-left: 11px;
