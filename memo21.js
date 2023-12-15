@@ -189,6 +189,7 @@ height: 52px;
     border: 1px solid #efefef;
 }
 #room.memo1 #mic{
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
 background-image: url(https://up6.cc/2023/12/170265736259654.png);
 background-size: cover;
 border-radius:  10px 0 10px!important;
