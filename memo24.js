@@ -173,6 +173,7 @@ height: 52px;
 #settings.memo1 .btn-primary {
   border-radius:  10px 0 10px!important;
   border: 1px solid #ecdce4;
+  box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/12/170265736259654.png);
   background-size: cover;
