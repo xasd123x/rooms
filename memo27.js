@@ -135,6 +135,12 @@ height: 52px;
     background-color: #cab7bb !important;
     border: 1px solid #efefef!important;
 }
+#rooms.fl.hand.nosel.uzr.uhtml.lid186bf1d7c5dxba765426xj57gd4 {
+    background-image: url(https://up6.cc/2023/12/170265736198213.gif);
+    border-radius:  10px 0 10px!important;
+    background-color: #cab7bb !important;
+    border: 1px solid #efefef!important;
+}
 #users.memo1 img.ustat {
     width: 13px !important;
     height: 13px !important;
