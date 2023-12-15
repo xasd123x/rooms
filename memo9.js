@@ -19,9 +19,9 @@ $(`<style>
   -webkit-text-fill-color: #827074;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 0px !important;
+  margin-top: 80px !important;
   margin-bottom: 0px !important;
-  background-color: #d9534f;
+  background-color: #d9534f!important;
   text-align: left!important;
   margin-left: 0px!important;
 }
