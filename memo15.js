@@ -117,7 +117,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 border-radius: 10px 0 10px;
-margin-left: -12px;
+margin-left: 2px;
 height: 52px;
 }
 #d0.memo1 {
