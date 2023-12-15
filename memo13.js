@@ -17,12 +17,13 @@ $(`<style>
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .label.label-primary.fa.fa-user.uc {
   letter-spacing: 2px;
   -webkit-text-fill-color: #ffffff;
-  border-radius: 15px 0px 15px 0px !important;
+  border-radius: 10px 0px 10px 0px !important;
   height: 27px;
   margin-top: 0px !important;
-  margin-bottom: 70px !important;
+  margin-bottom: 60px !important;
   background-color: #c58398!important;
   margin-left: 0px!important;
+  margin-right: 0px!important;
 }
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .mini.u-msg.flex-grow-1 {
