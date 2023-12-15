@@ -21,7 +21,7 @@ $(`<style>
   height: 27px;
   margin-top: 0px !important;
   margin-bottom: 60px !important;
-  background-color: #c58398!important;
+  background-color: #cab7bb!important;
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
