@@ -11,7 +11,7 @@ $(`<style>
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .d-flex.fitimg.u-pic {
   letter-spacing: 1px;
   background-size: 108% 108%;
-  -webkit-text-fill-color: white;
+  -webkit-text-fill-lor: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .label.label-primary.fa.fa-user.uc {
@@ -144,7 +144,7 @@ height: 52px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
 }
-#users.memo1 img.co{border-radius:  10px 0 10px!important;transform:rotate(20deg);margin-top:2px!important}
+#users.memo1 img.co{border-radius:  10px 0 10px!important;transform:rotate(0deg);margin-top:2px!important}
 #users.memo1 .nosel.ninr.fl.uzr.label.bg {
     border-radius:  10px 0 10px!important;
     background-color: #b2b2b2;
