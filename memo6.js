@@ -19,7 +19,7 @@ $(`<style>
   -webkit-text-fill-color: #827074;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
-  margin-top: 40px !important;
+  margin-top: 90px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
