@@ -76,6 +76,7 @@ $(`<style>
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.memo1 .mic {
     border: 0px solid;
+    background-color: #f5f1f2!important;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
