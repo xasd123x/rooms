@@ -149,6 +149,7 @@ height: 52px;
 #users.memo1 img.co{border-radius:  10px 0 10px!important;transform:rotate(0deg);margin-top:2px!important}
 #users.memo1 .nosel.ninr.fl.uzr.label.bg {
     border-radius:  10px 0 10px!important;
+    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     background-color: #b2b2b2;
 	color: #443433;
 	background-image: url(https://up6.cc/2023/12/170265736259654.png);
