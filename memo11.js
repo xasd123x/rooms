@@ -15,12 +15,12 @@ $(`<style>
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
 .nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .label.label-primary.fa.fa-user.uc {
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   -webkit-text-fill-color: #ffffff;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 0px !important;
-  margin-bottom: 80px !important;
+  margin-bottom: 70px !important;
   background-color: #c58398!important;
   text-align: left!important;
   margin-left: 0px!important;
