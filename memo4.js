@@ -57,7 +57,7 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .u-topic.dots {
+.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .u-topic.dots.flex-grow-1 {
   text-transform: uppercase;
   -webkit-text-fill-color: #e8a64d00;
   animation: textclip 2s linear infinite;
