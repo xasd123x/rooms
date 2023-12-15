@@ -8,7 +8,7 @@ background-image: url(https://up6.cc/2023/12/170265736196952.png); background-si
 
 
 $(`<style>
-.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .d-flex fitimg.u-pic {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
@@ -44,7 +44,7 @@ $(`<style>
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r18be7bce4e3xbc936082xxskjj7 .d-flex fitimg.u-pic {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -215,7 +215,7 @@ border-radius:  10px 0 10px!important;
     clip-path: inset(0px round 15px 0px 15px 0px);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
-#wall.princ1 .fitimg.u-pic.borderg {
+#wall.princ1 .d-flex fitimg.u-pic {
 height: 52px !important;
 border: 1px solid;
 border-radius: 10px 0 10px;
@@ -223,7 +223,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 }
-#rooms.princ1 .fitimg.u-pic.borderg{
+#rooms.princ1 .d-flex fitimg.u-pic{
 height: 52px !important;
 border: 1px solid;
 border-image: linear-gradient(45deg, gold, deeppink) 0;
