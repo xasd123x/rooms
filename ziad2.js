@@ -42,12 +42,23 @@ margin-bottom: 2px!important;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
-.uzr.ziad_i6ar1.lid18c1bf3fb78xb2a85404-x4djf4f  {
+@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+$("style").last().append(`
+#users .uzr.ziad1 .ziad_i6ar1 {
 width: 75px;
 margin-top: -12px;
 height: 79px;
 margin-left: -10px;
 background-size: 100%;
 }
-.uzr.fitimg.u-pic.lid18c1bf3fb78xb2a85404-x4djf4f").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
-@keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+`);
+var l_itvziad=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvziad);
+        $("#users .uzr:contains('هااوي')").addClass('ziad1');
+        $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+    }
+}, 10000);
