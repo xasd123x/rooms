@@ -17,7 +17,7 @@ $(`<style>
     }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .mini.u-msg {
     text-align: center;
-    background-image: url(https://up6.cc/2023/12/170162505647371.gif);margin-right: 3px!important;
+    background-image: url(https://up6.cc/2023/12/170274954735011.gif);margin-right: 3px!important;
     margin-left: 2px!important;
     margin-top: 10px!important;
     margin-bottom: 18px!important;-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;background-size: 170% auto;
