@@ -33,7 +33,7 @@ $(`<style>
 .uzr.d-flex.mm.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {border-radius: 15px 0px 15px 0px;border: 1px solid #ffffff;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;background-size: 100%;
 margin-bottom: 2px!important;
 }
-.uzr.d-flex.mm.pmsgc.lid18c1bf3fb78xb2a85404-x4djf4f {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170274434099671.png);
+.uzr.d-flex.mm.pmsgc.lid18c1bf3fb78xb2a85404-x4djf4f {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170276269397191.png);
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
 width: 12px !important;
