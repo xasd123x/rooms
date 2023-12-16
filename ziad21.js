@@ -49,7 +49,7 @@ margin-bottom: 2px!important;
 $("style").last().append(`
 #users .uzr.ziad1 .ziad_i6ar1 {
 width: 90px;
-margin-top: -17px;
+margin-top: -15px;
 height: 88px;
 margin-left: -17px;
 background-size: 100%;
