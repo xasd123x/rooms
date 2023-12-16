@@ -3,7 +3,7 @@ $(`<style>
   border-radius: 100px !important;
   margin-top: 10px !important;
   height: 55px !important;
-  margin-left: -5px !important;
+  margin-left: -0px !important;
   width: 55px;
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
