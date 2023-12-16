@@ -51,7 +51,7 @@ $("style").last().append(`
 width: 92px;
 margin-top: -20px;
 height: 92px;
-margin-left: -20px;
+margin-left: -17px;
 background-size: 100%;
 }
 `);
