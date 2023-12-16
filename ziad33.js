@@ -9,7 +9,7 @@ $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f {
     background-size: 100% ;
     border-radius: 15px 0px 15px 0px;border: 1px solid #424242;box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 3px #424242;
-    background-image: url(https://up6.cc/2023/12/17027607978491.png);
+    background-image: url(https://up6.cc/2023/12/170276167205011.png);
     margin-right: 0px!important;
     margin-left: 0px!important;
     margin-top: 2px!important;
