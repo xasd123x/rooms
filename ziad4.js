@@ -59,7 +59,7 @@ var l_itvziad=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvziad);
         $("#users .uzr:contains('هااوي')").addClass('ziad1');
-        $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170207118574171.gif">');
+        $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
         $("#ifr_mov1").show(function(){
         $("#upro").modal("hide");
     } ); 
