@@ -48,9 +48,9 @@ margin-bottom: 2px!important;
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $("style").last().append(`
 #users .uzr.ziad1 .ziad_i6ar1 {
-width: 95px;
+width: 92px;
 margin-top: -15px;
-height: 85px;
+height: 92px;
 margin-left: -20px;
 background-size: 100%;
 }
