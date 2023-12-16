@@ -50,7 +50,7 @@ $("style").last().append(`
 #users .uzr.ziad1 .ziad_i6ar1 {
 width: 95px;
 margin-top: -12px;
-height: 79px;
+height: 85px;
 margin-left: -20px;
 background-size: 100%;
 }
