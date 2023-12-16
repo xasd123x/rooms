@@ -36,14 +36,14 @@ margin-bottom: 2px!important;
 .uzr.d-flex.mm.pmsgc.lid18c1bf3fb78xb2a85404-x4djf4f {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170274434099671.png);
 }
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ustat {
-    width: 7px !important;
-    height: 30px !important;
-    border-radius: 5px 0px 0px 5px;
-    margin-right: 1px!important;
-    margin-left: 1px!important;
-    margin-top: 20px!important;
-    border: 1px solid #fff;
-    box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
+width: 12px !important;
+border-radius: 5px 0px 5px 0px;
+height: 12px !important;
+min-height: 0% !important;
+margin-left: 3px!important;
+margin-top: 5px!important;
+border: 1px solid #fff;
+box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $("style").last().append(`
