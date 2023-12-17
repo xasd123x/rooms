@@ -5,7 +5,8 @@ margin-top: -2px;
 height: 60px;
 margin-left: -4px;
 }
-#upro.hawy1 nd-image: url(https://up6.cc/2023/12/170224184664141.png);
+#upro.hawy1 .light.fl.pro.break {
+    background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }
 
