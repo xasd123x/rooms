@@ -5,6 +5,7 @@ background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px sol
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
 background-image: url(https://up6.cc/2023/12/170265736196952.png); background-size: cover;color: #666666;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
 }`);
+$(`<style>
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
