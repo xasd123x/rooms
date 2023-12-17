@@ -49,7 +49,7 @@ box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $("style").last().append(`
-#users .uzr.ziad1 .ziad_i6ar1 {
+.fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .ziad_i6ar1 {
 width: 90px;
 margin-top: -15px;
 height: 88px;
@@ -57,13 +57,7 @@ margin-left: -17px;
 background-size: 100%;
 }
 `);
-var l_itvziad=setInterval(function(){
-    if(myid!=null){
-        clearInterval(l_itvziad);
-        $("#users .uzr:contains('! ^ 『 Z 』『 AD 』 -←')").addClass('ziad1');
-        $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
-        $("#ifr_mov1").show(function(){
-        $("#upro").modal("hide");
+$(".fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
     } ); 
     }
 }, 10000);
