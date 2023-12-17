@@ -1,5 +1,4 @@
-var lid="18c1bf3fb78xb2a85404-x4djf4f";
-$("style:eq(0)").append(`#upro .light.fl.pro.break[lid="${lid}""]{
+$("style:eq(0)").append(`#upro .roomh[onclick="rjoin('18c2afa7cadxc9c5e09x-qc0q8j')"]{
     background-image: url(https://up6.cc/2023/12/170224184664141.png);
     background-size: 100%;
 }`);
