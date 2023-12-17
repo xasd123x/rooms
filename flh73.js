@@ -16,7 +16,7 @@ var l_itvhawy=setInterval(function(){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('هااوي')").addClass('hawy1');
         $("#users .uzr.hawy1 .fitimg.u-pic").append('<img class="hawy_star1" src="https://up6.cc/2023/02/167579621323341.png">');
-		$("#users .uzr.hawy1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
+	$("#users .uzr.hawy1 span.u-topic").after('<img id="mystory1" class="My_vedio1" title="ستوري" style="float: right;width: 20px;margin-top: 0px;margin-right: 5px;cursor: pointer;" src="https://i.ibb.co/47VS4nY/image.png">');
         $("#users .uzr.hawy1 span.uhash, #users .uzr.hawy1 img.co").hide(); 
         $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">');
         $("div#users .uzr.hawy1 .My_vedio1").click(function(){
