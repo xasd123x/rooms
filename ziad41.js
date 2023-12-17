@@ -58,6 +58,3 @@ background-size: 100%;
 }
 `);
 $(".fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
-    } ); 
-    }
-}, 10000);
