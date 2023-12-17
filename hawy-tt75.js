@@ -1,11 +1,17 @@
 var rid='18c2afa7cadxc9c5e09x-qc0q8j';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
-background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
+background-size: 220% auto;border-radius:  50px !important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/12/170265736196952.png); background-size: cover;color: #666666;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
+background-image: url(https://up6.cc/2023/12/170197875301381.png); background-size: cover;color: #000000;
 }`);
 $(`<style>
+.nosel.d-flex.room.r18c2afa7cadxc9c5e09x-qc0q8j .d-flex.fitimg.u-pic {
+  letter-spacing: 1px;
+  background-size: 108% 108%;
+  -webkit-text-fill-color: white;
+  animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
+}
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
 $(`<style>
 .fl.hand.nosel.uzr.uhtml.lid18c1bf3fb78xb2a85404-x4djf4f .fitimg.u-pic {width: 58px !important;
