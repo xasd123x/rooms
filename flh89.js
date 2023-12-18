@@ -15,5 +15,6 @@ var l_itvhawy=setInterval(function(){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('هااوي')").addClass('hawy1')
         $("#users .uzr.hawy1 .fitimg.u-pic").append('<img class="hawy_star1" src="https://up6.cc/2023/02/167579621323341.png">');
+        $("#upro").before('<div class="modal in" id="upro" role="dialog" style="z-index: 2100; display: block;" lid="18c1bf3fb78xb2a85404-x4djf4f"><div class="light fl pro break" style="width:100%; padding:0px;margin:0px; background-image: url(https://up6.cc/2023/12/170196865916951.gif);">…</div>');
     }
 }, 10000);
