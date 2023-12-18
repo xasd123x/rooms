@@ -34,7 +34,7 @@ margin-bottom: 2px!important;
 }
 .uzr.d-flex.mm.pmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170258153180371.jpg);
 }
-.uzr.d-flex.mm.ppmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm .u-msg.break {background-image: url(https://up6.cc/2023/12/17027640111581.gif);-webkit-background-clip: text;-webkit-text-fill-color: transparent;display: inline-block;
+.uzr.d-flex.mm.ppmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm .u-msg.break {-webkit-text-fill-color: #000000;background-image: url(https://up6.cc/2023/12/17027640111581.gif);-webkit-background-clip: text;display: inline-block;
 }
 .fl.hand.nosel.uzr.uhtml.lid17f50b8ef6fx1a21c9a4-x2s7ldm .ustat {
     width: 7px !important;
