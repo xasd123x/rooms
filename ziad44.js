@@ -37,6 +37,10 @@ margin-bottom: 2px!important;
 }
 .uzr.d-flex.mm.pmsgc.lid189e461646axfc2de284-xruzv99 .u-msg.break {background-image: url(https://up6.cc/2023/12/17027640111581.gif);-webkit-background-clip: text;
 }
+.uzr.d-flex.mm.pmsgc.lid189e461646axfc2de284-xruzv99 .d-flex.fr {max-width: 92px;
+    height: 21px;
+    margin-left: auto;
+}
 .fl.hand.nosel.uzr.uhtml.lid189e461646axfc2de284-xruzv99 .ustat {
 width: 12px !important;
 border-radius: 5px 0px 5px 0px;
