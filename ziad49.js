@@ -41,6 +41,16 @@ margin-bottom: 2px!important;
 }
 .uzr.d-flex.mm.ppmsgc.lid189e461646axfc2de284-xruzv99 {background-size: 100%;border-radius: 5px 5px 5px 5px;border: 2px solid #424242;background-image: url(https://up6.cc/2023/12/170276269397191.png);
 }
+.uzr.d-flex.mm.ppmsgc.lid189e461646axfc2de284-xruzv99 .d-flex.fr {-webkit-text-fill-color: #ffffff;
+    max-width: 92px;
+    height: 21px;
+    margin-left: auto;
+}
+.uzr.d-flex.mm.pmsgc.lid189e461646axfc2de284-xruzv99 .d-flex.fr {-webkit-text-fill-color: #ffffff;
+    max-width: 92px;
+    height: 21px;
+    margin-left: auto;
+}
 .fl.hand.nosel.uzr.uhtml.lid189e461646axfc2de284-xruzv99 .ustat {
 width: 12px !important;
 border-radius: 5px 0px 5px 0px;
