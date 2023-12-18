@@ -13,12 +13,9 @@ margin-left: -4px;
 
 `);
 var l_itvhawy=setInterval(function(){
-    if(lid="18c1bf3fb78xb2a85404-x4djf4f"){
         clearInterval(l_itvhawy);
         $("#users .uzr:lid18c1bf3fb78xb2a85404-x4djf4f").addClass('hawy1')
         $("#users .uzr.hawy1 .fitimg.u-pic").append('<img class="hawy_star1" src="https://up6.cc/2023/02/167579621323341.png">');
         $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('hawy1');
 	$('input, button.rsave.btn.btn-primary.fl, button.border.btn.label.label-success.fl.fa.fa-plus, button.blike.corner.btn.minix.btn-danger.fa.fa-heart, .fl.borderg, .fl.u-pic.fitimg, .dots, .tc, .label.fl.label-primary, .btn.btn-primary.u-nickc.fr.fa.fa-save, .modal-header.label-primary, .corner.border.label.label-primary,.head.d-flex.nosel.bg.fl, .rsave.btn.btn-primary.fr, .fa.fa-send.sndpm.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary, .bdel.corner.btn.minix.btn-primary.fa.fa-times, .fa.fa-send.sndbc.fl.btn.btn-primary').addClass('hawy1');
-
-    }
 }, 10000);
