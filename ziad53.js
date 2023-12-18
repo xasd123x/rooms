@@ -51,7 +51,7 @@ margin-bottom: 2px!important;
 }
 .fl.nosel.fa.fa-bullhorn {
     margin-top: 2px;
-    color: #0000ff!important;
+    -webkit-text-fill-color: #0000ff;
 }
 .fl.hand.nosel.uzr.uhtml.lid189e461646axfc2de284-xruzv99 .ustat {
 width: 12px !important;
