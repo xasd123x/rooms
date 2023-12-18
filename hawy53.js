@@ -36,7 +36,7 @@ margin-bottom: 2px!important;
 }
 .uzr.d-flex.mm.ppmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm .u-msg.break {-webkit-text-fill-color: transparent;background-image: url(https://up6.cc/2023/12/17027640111581.gif);-webkit-background-clip: text;display: inline-block;
 }
-.uzr.d-flex.mm.ppmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm .d-flex.fr {-webkit-text-fill-color: ffffff;
+.uzr.d-flex.mm.ppmsgc.lid17f50b8ef6fx1a21c9a4-x2s7ldm .d-flex.fr {-webkit-text-fill-color: #ffffff;
     max-width: 92px;
     height: 21px;
     margin-left: auto;
