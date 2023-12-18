@@ -1,5 +1,5 @@
 $("style").last().append(`
-#users .uzr.hawy1 .hawy_star1 {
+#users .hawy1 .hawy_star1 {
 width: 61px;
 margin-top: -2px;
 height: 60px;
