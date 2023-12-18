@@ -15,7 +15,7 @@ var l_itvhawy=setInterval(function(){
     if(myid!=null){
         clearInterval(l_itvhawy);
         $("#users .uzr:contains('هااوي')").addClass('hawy1');
-        $("#upro .pro:contains('هااوي')").addClass('hawy1');
+        $("#upro :contains('هااوي')").addClass('hawy1');
         $("#users .uzr.hawy1 .fitimg.u-pic").append('<img class="hawy_star1" src="https://up6.cc/2023/02/167579621323341.png">');
     }
 }, 10000);
