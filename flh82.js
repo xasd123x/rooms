@@ -1,5 +1,5 @@
 var lid="18c1bf3fb78xb2a85404-x4djf4f";
-$("style:eq(0)").append(`#upro .pro[onclick="rjoin('${lid}')"]{
+$("style:eq(0)").append(`#upro .pro {
 background-image: url(https://up6.cc/2023/12/170197875301381.png); background-size: cover;color: #000000;
 }`);
 $("style").last().append(`
