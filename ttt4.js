@@ -69,3 +69,4 @@ $("style").last().append(`<div class="modal in" id="upro" role="dialog" style="z
         </div>
       </div>
     </div>
+`);
