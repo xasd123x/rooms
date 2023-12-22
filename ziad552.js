@@ -75,3 +75,10 @@ border: 1px solid #fff;
 box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
+var l_itvziad=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_itvziad);
+        $("#users .uzr:contains('هااوي')").addClass('ziad1');
+        $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
+    } ); 
+}, 10000);
