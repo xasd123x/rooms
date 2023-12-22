@@ -80,4 +80,6 @@ var l_itvziad=setInterval(function(){
         clearInterval(l_itvziad);
         $("#users .uzr:contains('هااوي')").addClass('ziad1');
         $("#users .uzr.ziad1 .fitimg.u-pic").append('<img class="ziad_i6ar1" src="https://up6.cc/2023/12/170274593610761.gif">');
+    } ); 
+    }
 }, 10000);
