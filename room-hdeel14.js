@@ -25,6 +25,17 @@ $(`<style>
   text-align: left!important;
   margin-left: 90px!important;
 }
+.nosel.d-flex.room.r17f22aa7093xd4e228b6x5w3le3 .corner.fa.fa-user.label.uc.label-primary {
+  letter-spacing: 1px;
+  -webkit-text-fill-color: #ac775c;
+  border-radius: 15px 0px 15px 0px !important;
+  height: 27px;
+  margin-top: 40px !important;
+  margin-bottom: 0px !important;
+  background-color: #d9534f00;
+  text-align: left!important;
+  margin-left: 90px!important;
+}
 .nosel.d-flex.room.r17f22aa7093xd4e228b6x5w3le3.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r17f22aa7093xd4e228b6x5w3le3 .dots.mini.u-msg {
     text-align: center;
@@ -127,7 +138,7 @@ height: 52px;
   background-size: cover;
 }
 #d2.hdeel1 .label-primary{background-color:#b77c9a!important}#d2.hdeel1 .bg{background-color:#b77c9a!important}#d2.hdeel1 .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px;background-color: #6d6d6d1f!important;}#dpnl.hdeel1{background-size: 100%;background-image: url(https://up6.cc/2023/12/170405290155841.png);background-color: #b2b2b2;  }#dpnl.hdeel1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.hdeel1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.hdeel1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
-#users.hdeel1 .mini.u-msg{text-align:center;}#dpnl.hdeel1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.hdeel1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
+#users.hdeel1 .mini.u-msg{text-align:center;}#dpnl.hdeel1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.hdeel1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}#rooms.hdeel1 .corner.fa.fa-user.label.uc.label-primary{border-radius: 10px 0 10px!important}
 #rooms.hdeel1 .label-primary {
     border-radius:  10px 0 10px!important;
     background-color: #575252 !important;
