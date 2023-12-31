@@ -130,7 +130,7 @@ height: 52px;
 #users.hdeel1 .mini.u-msg{text-align:center;}#dpnl.hdeel1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.hdeel1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.hdeel1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #3a3a3f !important;
+    background-color: #575252 !important;
     border: 1px solid #efefef!important;
 }
 #users.hdeel1 img.ustat {
@@ -179,7 +179,7 @@ height: 52px;
 #settings.hdeel1 .bg-primary{background-color:#9d8980!important}#d0.hdeel1 .btn-primary{background-color:#9d8980!important}
 #users.hdeel1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #3a3a3f;
+    background-color: #575252;
     border: 1px solid #efefef;
 }
 #room.hdeel1 #mic{
@@ -201,7 +201,7 @@ border-radius:  10px 0 10px!important;
 #room.hdeel1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
     border: 1px solid #ecdce4;
-    background-color: #3a3a3f;
+    background-color: #;
 }
 #upro.hdeel1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
