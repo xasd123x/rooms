@@ -149,7 +149,7 @@ height: 52px;
 #users.hdeel1 .nosel.ninr.fl.uzr.label.bg {
     border-radius:  10px 0 10px!important;
     background-color: #b2b2b2;
-	color: #ddc785;
+	color: #575252;
 	background-image: url(https://up6.cc/2023/11/170008295234772.png);
     background-size: cover;
 }
@@ -157,7 +157,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
-    color: #ddc785;
+    color: #575252;
     background-size: 100%;
 }
 #settings.hdeel1 .label-primary {
@@ -166,7 +166,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170008295234772.png);
   background-size: cover;
-  color: #ddc785;
+  color: #575252;
 }
 #settings.hdeel1 .btn-primary {
   border-radius:  10px 0 10px!important;
@@ -174,7 +174,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/11/170008295234772.png);
   background-size: cover;
-  color: #ddc785;
+  color: #575252;
 }
 #settings.hdeel1 .bg-primary{background-color:#9d8980!important}#d0.hdeel1 .btn-primary{background-color:#9d8980!important}
 #users.hdeel1 .tbox {
@@ -194,7 +194,7 @@ border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
     background-size: cover;
-    color: #ddc785;
+    color: #575252;
     font-size: 14px !important;
 }
 #d2.hdeel1{background-color:#fff !important;}
@@ -247,19 +247,19 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
-    color: #ddc785;
+    color: #575252;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.hdeel1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
-    color: #ddc785;
+    color: #575252;
 }
 .label.fl.label-primary.hdeel1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
-    color: #ddc785;
+    color: #575252;
 }
 #rooms.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.hdeel1 {
