@@ -23,7 +23,7 @@ $(`<style>
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 50px!important;
+  margin-left: 80px!important;
 }
 .nosel.d-flex.room.r17f22aa7093xd4e228b6x5w3le3.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r17f22aa7093xd4e228b6x5w3le3 .dots.mini.u-msg {
