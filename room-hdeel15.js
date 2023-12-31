@@ -32,7 +32,7 @@ $(`<style>
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
-  background-color: #d9534f00;
+  background-color: #d9534f00!important;
   text-align: left!important;
   margin-left: 90px!important;
 }
