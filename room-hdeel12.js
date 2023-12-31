@@ -76,7 +76,7 @@ $(`<style>
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.hdeel1 .mic {
     border: 0px solid;
-    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
+    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #575252;
     margin: 3px;
     margin-top: 1px;
 	height: 48px;
