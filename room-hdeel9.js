@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/12/170405217201311.png); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2023/12/170405217201311.png); background-size: cover;color: #575252;
 }`);
 
 
