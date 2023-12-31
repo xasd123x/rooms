@@ -168,7 +168,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
-    color: #575252;
+    color: #000000;
     background-size: 100%;
 }
 #settings.hdeel1 .label-primary {
