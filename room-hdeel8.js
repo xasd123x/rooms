@@ -3,7 +3,7 @@ $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;
 }`);
 $("style:eq(0)").append(`#upro .roomh[onclick="rjoin('${rid}')"]{
-background-image: url(https://up6.cc/2023/11/170008295236023.png); background-size: cover;color: #666666;
+background-image: url(https://up6.cc/2023/12/170405217201311.png); background-size: cover;color: #666666;
 }`);
 
 
@@ -156,7 +156,7 @@ height: 52px;
 #d0.hdeel1 .label-primary {
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
-    background-image: url(https://up6.cc/2023/11/170008295236023.png);
+    background-image: url(https://up6.cc/2023/12/170405217201311.png);
     color: #ddc785;
     background-size: 100%;
 }
@@ -192,7 +192,7 @@ border-radius:  10px 0 10px!important;
 #room.hdeel1 .btn-primary {
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/11/170008295236023.png);
+    background-image: url(https://up6.cc/2023/12/170405217201311.png);
     background-size: cover;
     color: #ddc785;
     font-size: 14px !important;
@@ -246,19 +246,19 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 .head.d-flex.nosel.bg.fl.hdeel1, .rsave.btn.btn-primary.fr.hdeel1, .fa.fa-send.sndpm.fl.btn.btn-primary.hdeel1, .fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary.hdeel1, .fr.fa.fa-share-alt.sndfilebc.fl.btn.btn-primary.hdeel1, .bdel.corner.btn.minix.btn-primary.fa.fa-times.hdeel1, .fa.fa-send.sndbc.fl.btn.btn-primary.hdeel1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
-    background-image: url(https://up6.cc/2023/11/170008295236023.png);
+    background-image: url(https://up6.cc/2023/12/170405217201311.png);
     color: #ddc785;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.hdeel1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/11/170008295236023.png);
+    background-image: url(https://up6.cc/2023/12/170405217201311.png);
     color: #ddc785;
 }
 .label.fl.label-primary.hdeel1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
-    background-image: url(https://up6.cc/2023/11/170008295236023.png);
+    background-image: url(https://up6.cc/2023/12/170405217201311.png);
     color: #ddc785;
 }
 #rooms.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
