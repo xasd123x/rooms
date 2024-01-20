@@ -132,7 +132,7 @@ height: 52px;
 #users.sukara1 .mini.u-msg{text-align:center;}#dpnl.sukara1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.sukara1 .label.label-primary.fa.fa-user.uc{border-radius: 10px 0 10px!important}
 #rooms.sukara1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb !important;
+    background-color: #757575 !important;
     border: 1px solid #efefef!important;
 }
 #users.sukara1 img.ustat {
@@ -183,12 +183,12 @@ height: 52px;
 #settings.sukara1 .bg-primary{background-color:#9d8980!important}#d0.sukara1 .btn-primary{background-color:#9d8980!important}
 #users.sukara1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb;
+    background-color: #757575;
     border: 1px solid #efefef;
 }
 #rooms.sukara1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb;
+    background-color: #757575;
     border: 1px solid #efefef;
 }
 #room.sukara1 #mic{
