@@ -21,7 +21,7 @@ $(`<style>
   height: 27px;
   margin-top: 0px !important;
   margin-bottom: 60px !important;
-  background-color: #cab7bb!important;
+  background-color: #757474!important;
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
@@ -211,7 +211,7 @@ border-radius:  10px 0 10px!important;
 #room.sukara1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
     border: 1px solid #ecdce4;
-    background-color: #cab7bb;
+    background-color: #757474;
 }
 #upro.sukara1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
