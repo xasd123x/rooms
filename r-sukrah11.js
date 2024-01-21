@@ -193,7 +193,7 @@ height: 52px;
 }
 #room.sukara1 #mic{
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
-background-image: url(https://up6.cc/2024/01/170586025664862.png);
+background-image: url(https://up6.cc/2024/01/17058631783851.png);
 background-size: cover;
 border-radius:  10px 0 10px!important;
 }
