@@ -158,7 +158,7 @@ height: 52px;
 #d0.sukara1 .label-primary {
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
-    background-image: url(https://up6.cc/2024/01/170586025664862.png);
+    background-image: url(https://up6.cc/2024/01/17058606415271.png);
     color: #1d5d3b;
     background-size: 100%;
 }
