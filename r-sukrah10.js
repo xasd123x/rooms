@@ -158,7 +158,7 @@ height: 52px;
 #d0.sukara1 .label-primary {
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
-    background-image: url(https://up6.cc/2024/01/170578223467091.png);
+    background-image: url(https://up6.cc/2024/01/170586025664862.png);
     color: #1d5d3b;
     background-size: 100%;
 }
@@ -193,7 +193,7 @@ height: 52px;
 }
 #room.sukara1 #mic{
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
-background-image: url(https://up6.cc/2024/01/170585717542612.png);
+background-image: url(https://up6.cc/2024/01/170586025664862.png);
 background-size: cover;
 border-radius:  10px 0 10px!important;
 }
