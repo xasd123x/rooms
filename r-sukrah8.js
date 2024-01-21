@@ -204,7 +204,7 @@ border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2024/01/170585717541081.png);
     background-size: cover;
-    color: #443433;
+    color: #000000;
     font-size: 14px !important;
 }
 #d2.sukara1{background-color:#fff !important;}
