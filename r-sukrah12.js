@@ -76,7 +76,7 @@ $(`<style>
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.sukara1 .mic {
     border: 0px solid;
-    background-color: #d5f8d8!important;
+    background-color: #e6e6e6!important;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
@@ -124,8 +124,7 @@ height: 52px;
 #d0.sukara1 {
   border-radius:  10px 0 10px!important;
   border: 1px solid #ecdce41c;
-  background-image: url(https://up6.cc/2024/01/170603106798281.png);
-  background-color: #f3f0ee;
+  background-color: #757575;
   background-size: cover;
 }
 #d2.sukara1 .label-primary{background-color:#b77c9a!important}#d2.sukara1 .bg{background-color:#b77c9a!important}#d2.sukara1 .uzr.d-flex.mm.hmsg{border-radius: 10px 0 10px;background-color: #6d6d6d1f!important;}#dpnl.sukara1{background-size: 100%;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;background-image: url(https://up6.cc/2024/01/170603106798281.png);background-color: #b2b2b2;  }#dpnl.sukara1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.sukara1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.sukara1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
@@ -156,7 +155,7 @@ height: 52px;
     background-size: cover;
 }
 #d0.sukara1 .label-primary {
-    border: 1px solid #adadad !important;
+    border: 1px solid #000000 !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2024/01/170603106799872.png);
     color: #424141;
