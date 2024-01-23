@@ -159,7 +159,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2024/01/170603106799872.png);
-    color: #1d5d3b;
+    color: #424141;
     background-size: 100%;
 }
 #settings.sukara1 .label-primary {
