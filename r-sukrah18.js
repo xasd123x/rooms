@@ -1,11 +1,11 @@
 $(`<style>
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 .d-flex.fitimg.u-pic {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 .d-flex.fitimg.u-pic {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-lor: white;
   animation: grad 2s cubic-bezier(.445,.05,.55,.95) alternate infinite;
 }
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 .label.label-primary.fa.fa-user.uc {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 .label.label-primary.fa.fa-user.uc {
   letter-spacing: 2px;
   -webkit-text-fill-color: #ffffff;
   border-radius: 10px 0px 10px 0px !important;
@@ -15,8 +15,8 @@ $(`<style>
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564.bord {border-inline: 0px solid #4c121e !important;}
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 .mini.u-msg.flex-grow-1 {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8.bord {border-inline: 0px solid #4c121e !important;}
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 .mini.u-msg.flex-grow-1 {
     text-align: center;
     margin-top: 53px !important;
 	margin-left: 11px;
@@ -28,13 +28,13 @@ $(`<style>
 	background-size: 90% 100%;
 	opacity:0;
 }
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 {
     background-image: url(https://up6.cc/2024/01/170577978781741.gif);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 .d-flex.fitimg.u-pic {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 .d-flex.fitimg.u-pic {
   border-radius: 100px;
   border: 2px solid #cc8321;
   letter-spacing: 1px;
@@ -47,7 +47,7 @@ $(`<style>
   max-height: 60px !important;
   display: none;
 }
-.nosel.d-flex.room.r18c07db2c9cx364cd213-x-h91564 .u-topic.dots.flex-grow-1 {
+.nosel.d-flex.room.r18cf1e6070ex59fe3a5x79fdl8 .u-topic.dots.flex-grow-1 {
   text-transform: uppercase;
   -webkit-text-fill-color: #e8a64d00;
   animation: textclip 2s linear infinite;
@@ -82,7 +82,7 @@ border-radius:  10px 0 10px!important;
 `);
 var sukaraA = false;
 setInterval(function () {
-    if (myroom == '18c07db2c9cx364cd213-x-h91564') {
+    if (myroom == '18cf1e6070ex59fe3a5x79fdl8') {
         if (sukaraA == false) {
             sukaraA = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('sukaraA1');
