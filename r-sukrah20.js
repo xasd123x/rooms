@@ -61,15 +61,3 @@ $(`<style>
   display: none;
 }
 @keyframes textclip {to {background-position: 200% center;}}</style>`).insertBefore('body');
-
-
-$(`<style>
-@keyframes huerotate {
-    0% {
-        filter: hue-rotate(0deg);
-    }
-    100% {
-        filter: hue-rorate(360deg);
-    }
-}
-10);
