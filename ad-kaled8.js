@@ -20,7 +20,7 @@ $(`<style>
     border-radius: 5px 0px 0px 0px;
     margin-right: 1px!important;
     margin-left: 1px!important;
-    margin-top: 5px!important;
+    margin-top: 10px!important;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #424242;
 }
