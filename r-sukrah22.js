@@ -124,7 +124,7 @@ height: 52px;
 #d0.suukra1 {
   border-radius:  10px 0 10px!important;
   border: 1px solid #ecdce41c;
-  background-image: url(https://up6.cc/2024/02/170828016451151.png);
+  background-image: url(https://up6.cc/2024/02/170829006066251.png);
   background-color: #f3f0ee;
   background-size: cover;
 }
@@ -158,7 +158,7 @@ height: 52px;
 #d0.suukra1 .label-primary {
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
-    background-image: url(https://up6.cc/2024/02/170828941366581.png);
+    background-image: url(https://up6.cc/2024/02/170828989155361.png);
     color: #ffffff;
     background-size: 100%;
 }
