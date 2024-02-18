@@ -10,6 +10,7 @@ $(`<style>
   -webkit-text-fill-color: #ffffff;
   border-radius: 10px 0px 10px 0px !important;
   height: 27px;
+  background-color: #3b4246!important;
   margin-top: 0px !important;
   margin-bottom: 60px !important;
   margin-left: 0px!important;
