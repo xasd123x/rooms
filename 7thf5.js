@@ -21,7 +21,7 @@ $(`<style>
   height: 27px;
   margin-top: 0px !important;
   margin-bottom: 60px !important;
-  background-color: #cab7bb!important;
+  background-color: #555555!important;
   margin-left: 0px!important;
   margin-right: 0px!important;
 }
@@ -132,7 +132,7 @@ height: 52px;
 #users.suukra1 .mini.u-msg{text-align:center;}#dpnl.suukra1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.suukra1 .label.label-primary.fa.fa-user.uc{border-radius: 10px 0 10px!important}
 #rooms.suukra1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb !important;
+    background-color: #555555 !important;
     border: 1px solid #efefef!important;
 }
 #users.suukra1 img.ustat {
@@ -188,7 +188,7 @@ height: 52px;
 }
 #rooms.suukra1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb;
+    background-color: #555555;
     border: 1px solid #efefef;
 }
 #room.suukra1 #mic{
