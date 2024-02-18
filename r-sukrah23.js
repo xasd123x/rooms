@@ -211,7 +211,7 @@ border-radius:  10px 0 10px!important;
 #room.suukra1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
     border: 1px solid #ecdce4;
-    background-color: #555555;
+    background-color: #000000;
 }
 #upro.suukra1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
