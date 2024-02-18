@@ -183,7 +183,7 @@ height: 52px;
 #settings.suukra1 .bg-primary{background-color:#9d8980!important}#d0.suukra1 .btn-primary{background-color:#9d8980!important}
 #users.suukra1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #cab7bb;
+    background-color: #555555;
     border: 1px solid #efefef;
 }
 #rooms.suukra1 .tbox {
