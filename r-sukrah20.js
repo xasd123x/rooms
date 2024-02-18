@@ -1,4 +1,4 @@
-var rid='18daed16904x12e2be87-x-q7x5kj';
+var rid='18c2e8a5734xec110075xi91zeb';
 $("style:eq(0)").append(`#d2 .roomh[onclick="rjoin('${rid}')"]{
 background-size: 220% auto;border-radius:  10px 0 10px!important;border: 1px solid #0000;box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
 }`);
@@ -325,7 +325,7 @@ button.rsave.btn.btn-primary.fl.sukaraaa1 {
 `);
 var sukaraaa = false;
 setInterval(function () {
-    if (myroom == '18daed16904x12e2be87-x-q7x5kj') {
+    if (myroom == '18c2e8a5734xec110075xi91zeb') {
         if (sukaraaa == false) {
             sukaraaa = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('sukaraaa1');
