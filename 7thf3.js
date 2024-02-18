@@ -151,7 +151,7 @@ height: 52px;
     border-radius:  10px 0 10px!important;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     background-color: #b2b2b2;
-	color: #443433;
+	color: #ffffff;
 	background-image: url(https://up6.cc/2024/02/170828016451151.png);
     background-size: cover;
 }
@@ -159,7 +159,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2024/02/170828016452992.png);
-    color: #443433;
+    color: #ffffff;
     background-size: 100%;
 }
 #settings.suukra1 .label-primary {
@@ -169,7 +169,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2024/02/170828016451151.png);
   background-size: cover;
-  color: #443433;
+  color: #ffffff;
 }
 #settings.suukra1 .btn-primary {
   border-radius:  10px 0 10px!important;
@@ -204,7 +204,7 @@ border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2024/02/170828016452992.png);
     background-size: cover;
-    color: #443433;
+    color: #ffffff;
     font-size: 14px !important;
 }
 #d2.suukra1{background-color:#fff !important;}
@@ -257,19 +257,19 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2024/02/170828016452992.png);
-    color: #443433;
+    color: #ffffff;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.suukra1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2024/02/170828016452992.png);
-    color: #443433;
+    color: #ffffff;
 }
 .label.fl.label-primary.suukra1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2024/02/170828016452992.png);
-    color: #443433;
+    color: #ffffff;
 }
 #rooms.suukra1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.suukra1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.suukra1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.suukra1 {
