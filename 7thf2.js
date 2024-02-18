@@ -76,7 +76,7 @@ $(`<style>
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.suukra1 .mic {
     border: 0px solid;
-    background-color: #f5f1f2!important;
+    background-color: #dedede!important;
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
@@ -178,7 +178,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2024/02/170828016451151.png);
   background-size: cover;
-  color: #443433;
+  color: #ffffff;
 }
 #settings.suukra1 .bg-primary{background-color:#9d8980!important}#d0.suukra1 .btn-primary{background-color:#9d8980!important}
 #users.suukra1 .tbox {
