@@ -168,7 +168,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2024/03/171088652031463.png);
-    color: #ffffff;
+    color: #391e0b !important;
     background-size: 100%;
 }
 #settings.nescafe1 .label-primary {
