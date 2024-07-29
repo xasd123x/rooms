@@ -272,6 +272,12 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     background-image: url(https://up6.cc/2023/12/170405217201311.png);
     color: #575252;
 }
+
+#chats.hdeel1 {
+  background-image: url("https://up6.cc/2024/07/172227173726621.png")!important;
+  background-size: cover;
+}
+
 #rooms.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.hdeel1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.hdeel1 {
   border-radius:  10px 0 10px!important;
@@ -308,10 +314,7 @@ margin-left: -12px;
 height: 52px;
 border-radius: 10px 0 10px;
 }
-#chats.hdeel1 {
-  background-image: url("https://up6.cc/2024/07/172227173726621.png")!important;
-  background-size: cover;
-}
+
 #room.hdeel1 {
    background-color: white;
 }
