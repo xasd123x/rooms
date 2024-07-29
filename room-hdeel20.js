@@ -274,7 +274,7 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 #chats.hdeel1 {
-  background-image: url("https://up6.cc/2024/07/172227173726621.png")!important;
+  background-image: url("https://up6.cc/2024/07/172227402970651.png")!important;
   background-size: cover;
 }
 
