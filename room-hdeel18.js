@@ -308,7 +308,10 @@ margin-left: -12px;
 height: 52px;
 border-radius: 10px 0 10px;
 }
-
+#chats.hdeel1 {
+  background-image: url("https://up6.cc/2024/07/172227173726621.png")!important;
+  background-size: cover;
+}
 #room.hdeel1 {
    background-color: white;
 }
